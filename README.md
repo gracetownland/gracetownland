@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gracetownland
+- 👋 Hi, I’m Ayush
 - 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently in my second year of comp sci at UBC
 - 📫 How to reach me 
