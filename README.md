@@ -7,7 +7,13 @@
 
 <h4> Let's connect:</h4>
 <a href="mailto:speak2ayushsrihari@gmail.com"> Email</a><br>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  href = "https://www.linkedin.com/in/ayush-s-7b500b1a1/"/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/ayush-s-7b500b1a1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 <!---
 gracetownland/gracetownland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
