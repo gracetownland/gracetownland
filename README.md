@@ -6,7 +6,13 @@
 <h4> I'm currently learning about Computer Graphics and also developing a full stack app with TS.</h4>
 
 <h4> Let's connect:</h4>
-<a href="mailto:speak2ayushsrihari@gmail.com"> Email</a><br>
+<div align="left">
+  <a href="mailto:speak2ayushsrihari@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/ayush-s-7b500b1a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
