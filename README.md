@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ayush :)</h1>
-<h3 align="center">I develop software.</h3>
+<h3 align="center">I'm learning software.</h3>
 
 <h4> I'm a third year Computer Science student at UBC.</h4>
 <h4> I'm passionate on designing effecient algorithms and understanding how AI works. </h4>
