@@ -3,7 +3,7 @@
 
 <h4> I'm a third year Computer Science student at UBC.</h4>
 <h4> I'm passionate on designing effecient algorithms and understanding how AI works. </h4>
-<h4> I'm currently learning about Computer Graphics and also developing a full stack app with TS.</h4>
+<h4> I'm currently interning at the UBC x AWS Cloud Innovation Centre.</h4>
 
 <h4> Let's connect:</h4>
 <div align="left">
