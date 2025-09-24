@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Ayush :)</h1>
-<h3 align="center">I'm learning software.</h3>
+<h3 align="center">I develop software.</h3>
 
-<h4> I'm a third year Computer Science student at UBC.</h4>
-<h4> I'm passionate on designing effecient algorithms and understanding how AI works. </h4>
+<h4> I'm a fourth year Computer Science student at UBC.</h4>
+<h4> I'm passionate about low level architecture and self-hosting. </h4>
 <h4> I'm currently interning at the UBC x AWS Cloud Innovation Centre.</h4>
 
 <h4> Let's connect:</h4>
